@@ -1,0 +1,92 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.hero-text{
+    margin-top: 15%;
+}
+.hero-img{
+    margin-top: 11%;
+    background-image: url(asset/blue-shape.jpg);
+    border: none;
+}
+.feature{
+    width: 60%;
+    margin: 0 auto;
+    margin-top: 50px;
+}
+a{
+    text-decoration: none;
+    
+}
+.extrantion{
+    margin-top: 150px;
+
+}
+.feature-menu{
+    border-bottom: 1px solid gray;
+    gap: 40px;
+    display: flex;
+    width: 40%;
+    margin: 0 auto;
+    margin-top: 50px;
+    
+}
+.feature-area{
+    /* width: 90%; */
+    /* margin: 0 auto; */
+}
+.feature-menu a{
+    padding-bottom: 20px;
+    border-bottom: 4px solid tomato;
+    color: black;
+}
+.e-main {
+    position: relative;
+}
+
+.firefox{
+    
+    position: relative;
+    top: 50px;
+}
+.opera{
+    
+    position: relative;
+    top: 100px;
+}
+.main{
+    margin-top: 100px;
+}
+.accodian{
+    width: 40%;
+}
+.form-control{
+    width: 10%;
+}
+.card{
+height: 320px;
+
+}
+.card-body{
+    margin-top: 10px;
+}
+
+.container1{
+background-color: rgb(7, 7, 20);
+color: rgb(246, 250, 253);
+display: flex;
+align-items: center;
+justify-content: space-around;
+height: 100px;
+}
+.container1 a{
+
+color: rgb(246, 250, 253);
+
+}
+.container1 img{
+width: 240px;
+height: 50px;
+}
